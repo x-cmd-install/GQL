@@ -7,7 +7,7 @@ about:
   latestVersion: "0.43.0"
   latestRelease: "0.43.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:47:32Z
+  collectedAt: 2026-09-10T17:47:16Z
 timeline:
   created: 2023-06-05
   lastCommit: 2026-04-21
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-03-09
   lastPrerelease: 
 popularity:
-  star: 3513
+  star: 3512
   watcher: 9
   fork: 95
   release: 48
@@ -85,7 +85,7 @@ total:
   commit: 859
 ---
 path: /home/runner/.x-repo/github.com/amrdeveloper/GQL
-collectedAt: 2026-09-10T05:47:35Z
+collectedAt: 2026-09-10T17:47:19Z
 loc:
   Rust:
     code: 18256
