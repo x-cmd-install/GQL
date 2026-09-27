@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4864512,
       "digest": "sha256:3d6c99ceafd924b4cb6664c0bb502a11519014d66c487bea172839e92a9f5901",
-      "download_count": 418,
+      "download_count": 419,
       "created_at": "2026-03-09T18:51:46Z",
       "updated_at": "2026-03-09T18:51:47Z",
       "browser_download_url": "https://github.com/AmrDeveloper/GQL/releases/download/0.43.0/gql-x86-windows.exe"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 66,
       "digest": "sha256:1689de8b82808430167c3de0d9ccc5c00f06d2de9dbeeaa557be7979a41066c0",
-      "download_count": 306,
+      "download_count": 307,
       "created_at": "2026-03-09T18:51:48Z",
       "updated_at": "2026-03-09T18:51:48Z",
       "browser_download_url": "https://github.com/AmrDeveloper/GQL/releases/download/0.43.0/gql-x86-windows.exe.sha256"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 65,
       "digest": "sha256:ad99b40f3ba39faaa46c7ccbd1986edb3f7def49230a9210e96e4edcc592d6bb",
-      "download_count": 37,
+      "download_count": 38,
       "created_at": "2026-03-09T18:50:00Z",
       "updated_at": "2026-03-09T18:50:00Z",
       "browser_download_url": "https://github.com/AmrDeveloper/GQL/releases/download/0.43.0/gql-x86_64-linux.gz.sha256"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6110208,
       "digest": "sha256:54a6fcfe38233b5ff1efa69fe796e6638da20a70368d4f79337519c0bc699708",
-      "download_count": 629,
+      "download_count": 633,
       "created_at": "2026-03-09T18:52:12Z",
       "updated_at": "2026-03-09T18:52:13Z",
       "browser_download_url": "https://github.com/AmrDeveloper/GQL/releases/download/0.43.0/gql-x86_64-windows.exe"
